@@ -3,11 +3,11 @@
   <title>Struggle&#39;S Blog</title>
   
   <subtitle>Never godbye</subtitle>
-  <link href="https://struggle-bug.github.io/atom.xml" rel="self"/>
+  <link href="http://www.struggle-bug.top/atom.xml" rel="self"/>
   
-  <link href="https://struggle-bug.github.io/"/>
+  <link href="http://www.struggle-bug.top/"/>
   <updated>2021-05-24T15:21:32.272Z</updated>
-  <id>https://struggle-bug.github.io/</id>
+  <id>http://www.struggle-bug.top/</id>
   
   <author>
     <name>Struggle</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://struggle-bug.github.io/posts/4a17b156/"/>
-    <id>https://struggle-bug.github.io/posts/4a17b156/</id>
+    <link href="http://www.struggle-bug.top/posts/4a17b156/"/>
+    <id>http://www.struggle-bug.top/posts/4a17b156/</id>
     <published>2021-05-21T08:40:47.736Z</published>
     <updated>2021-05-24T15:21:32.272Z</updated>
     
